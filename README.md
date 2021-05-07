@@ -12,9 +12,9 @@
 
 ## Project #2
 
-- http://eve.kean.edu/~myname/MyProject2.html
+- https://github.com/elvisnunezzz/Project2
 
-- <b>Description:</b>  A front-end prototype of an E-commerce website
+- <b>Description:</b> Using python libraries to create pdf files, analyzing websites data with Beautiful Soup and data visualization with NumPy
 
 
 ## Project #3
