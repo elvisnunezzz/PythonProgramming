@@ -19,8 +19,8 @@
 
 ## Project #3
 
-- http://eve.kean.edu/~myname/MyProject3.html
+- https://github.com/elvisnunezzz/Project3
 
-- <b>Description:</b>  A complete "Web Dev Story" that adopts a Design Thinking approach to address a problem through a front-end website build
+- <b>Description:</b>  To-Do list using Tkinter for time management
 
 
