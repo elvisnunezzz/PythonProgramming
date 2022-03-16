@@ -7,7 +7,7 @@
 
 - https://github.com/elvisnunezzz/Project1
 
-- <b>Description:</b>  Sentiment Analyzer
+- <b>Description:</b>  Sentiment Analyzer: used to analyze raw text to drive objective quantitative results using natural language processing, machine learning, and other data analytics techniques.
 
 
 ## Project #2
